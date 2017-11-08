@@ -1,0 +1,17 @@
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\Lab2Zad.exe.config
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\Lab2Zad.exe
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\Lab2Zad.pdb
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\EntityFramework.dll
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\EntityFramework.xml
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.exe
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.pdb
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.csproj.GenerateResource.Cache
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.MainPageForm.resources
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.OrderForm.resources
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.CustomerForm.resources
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.Migrations.InitialCreate.resources
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.Migrations.changeCompanyName.resources
+c:\users\piotr\documents\visual studio 2015\Projects\Lab2Zad\Lab2Zad\obj\Debug\Lab2Zad.CustomersOrdersForm.resources
